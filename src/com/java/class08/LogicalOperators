@@ -1,0 +1,28 @@
+Logical Operators
+
+And - &&
+OR - ||
+NOT - !
+
+Logical operators work only with Boolean data types
+Logical operators will be used to combine multiple conditions
+
+==> Table for And Operator (&&)
+
+   | value1 && value2 = Result |
+   | true   && true   = true   |
+   | true   && false  = false  |
+   | false  && true   = false  |
+   | false  && false  = false  |
+
+==> Table for OR Operator (&&)
+   | value1 || value2 = Result |
+   | true   || true   = true   |
+   | true   || false  = true   |
+   | false  || true   = true   |
+   | false  || false  = false  |
+
+==> Table for NOT Operator (&&)
+   value1 = Result
+   ! true   = false
+   ! true   = false
